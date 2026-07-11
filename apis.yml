@@ -41,6 +41,8 @@ apis:
       - type: x-api-endpoint
         url: https://admin.opendatani.gov.uk/api/3/action/status_show
 common:
+  - type: DomainSecurity
+    url: security/admin-opendatani-gov-uk-domain-security.yml
   - type: Website
     url: https://admin.opendatani.gov.uk
   - type: Documentation
