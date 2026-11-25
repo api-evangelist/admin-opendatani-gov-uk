@@ -84,25 +84,25 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Admin Opendatani Gov Uk Domain Security](https://apis.io/security/admin-opendatani-gov-uk/admin-opendatani-gov-uk-domain-security/)
+- [OpenDataNI (Northern Ireland) Domain Security](https://apis.io/security/admin-opendatani-gov-uk/admin-opendatani-gov-uk-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Admin Opendatani Gov Uk Plans Pricing](https://apis.io/plans/admin-opendatani-gov-uk/admin-opendatani-gov-uk-plans-pricing/)
+- [OpenDataNI (Northern Ireland) Plans Pricing](https://apis.io/plans/admin-opendatani-gov-uk/admin-opendatani-gov-uk-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Admin Opendatani Gov Uk Rate Limits](https://apis.io/rate-limits/admin-opendatani-gov-uk/admin-opendatani-gov-uk-rate-limits/)
+- [OpenDataNI (Northern Ireland) Rate Limits](https://apis.io/rate-limits/admin-opendatani-gov-uk/admin-opendatani-gov-uk-rate-limits/)
 
 #### FinOps (1)
 
 What the API costs to run, by operation.
 
-- [Admin Opendatani Gov Uk Finops](https://apis.io/finops/admin-opendatani-gov-uk/admin-opendatani-gov-uk-finops/)
+- [OpenDataNI (Northern Ireland) Finops](https://apis.io/finops/admin-opendatani-gov-uk/admin-opendatani-gov-uk-finops/)
 
 ## Where to find this API
 
@@ -110,21 +110,24 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 - [Website](https://admin.opendatani.gov.uk)
 - [Documentation](https://docs.ckan.org/en/latest/api/)
+- [Blog](https://admin.opendatani.gov.uk/blog)
+- [Terms of service](https://admin.opendatani.gov.uk/terms-and-conditions)
+- [Privacy policy](https://admin.opendatani.gov.uk/privacy)
 
 ## API Evangelist rating
 
-**Kin Score 9.1** — minimal · rubric 0.24.0 · scored 2026-10-17
+**Kin Score 13.0** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
 | Discoverability | 66.1 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 5.3 |
-| Developer ergonomics | 9.5 |
-| Access clarity | 5.3 |
+| Operational transparency | 4.8 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 21.3 |
 
-**Agent readiness 0.6** — human-only
+**Agent readiness 1.3** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -147,8 +150,14 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Protected Resource Metadata | — |
 | Dynamic Client Registration | — |
 | Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | yes |
 
-**Regulatory alignment 5.9** — Government & Public Sector
+**Regulatory alignment 7.8** — Government & Public Sector
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/admin-opendatani-gov-uk/](https://apis.io/providers/admin-opendatani-gov-uk/).
 
